@@ -25,7 +25,7 @@ Thrust / (isp * g) = mdot
 
 (Wtotal * (1-deadWeight) ) / mdot = Thrust time
 
-impulse = (Wtotal * (1-deadWeight) ) / (Thrust / (isp * g))
+impulse = thrust *  (Wtotal * (1-deadWeight) ) / (Thrust / (isp * g))
 
 
 some tips:
